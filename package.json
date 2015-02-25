@@ -1,0 +1,14 @@
+{
+  "name": "nova-node-expressworks-empty-project",
+  "version": "1.0.0",
+  "description": "An empty project to get everyone up and running with express",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
